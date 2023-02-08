@@ -2,7 +2,7 @@
 
 The password is the same for every level of protection. Password: 1234.
 
-Artificial transactions were created to simulate the a context to interpret the dynamic dashboard.
+Artificial transactions were created to simulate a context to interpret the dynamic dashboard.
 
 Some parts are in portuguese, however the general concept is understandable.
 
